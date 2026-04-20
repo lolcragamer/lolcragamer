@@ -54,7 +54,7 @@
 
 ### 📂 Organizador Inteligente de Archivos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolcragamer&repo=organizador-archivos&theme=dark)](https://github.com/lolcragamer/organizador-archivos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolcragamer&repo=organizador-archivos&theme=dark)]([https://github.com/lolcragamer/organizador-archivos](https://github.com/lolcragamer/Organizador-Inteligente-de-Archivos-por-Etiquetas))
 
 **Organiza archivos automáticamente con etiquetas jerárquicas** ⭐
 

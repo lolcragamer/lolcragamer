@@ -76,7 +76,7 @@
 ---
 
 <div align="center">
-[![Stars](https://img.shields.io/github/stars/lolcragamer/Organizador-Inteligente-de-Archivos-por-Etiquetas?style=social)](https://github.com/lolcragamer/Organizador-Inteligente-de-Archivos-por-Etiquetas)
+
   
 ### ⭐ ¡Gracias por visitar mi perfil! ⭐
 
